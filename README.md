@@ -111,11 +111,6 @@ Typical packages used: `opencv-python`, `torch`, `ultralytics` (optional), `nump
 - YOLO family: Redmon, et al.; single-shot detectors and subsequent YOLO improvements.
 - Ultralytics YOLO: Ultralytics repository and docs for model management and training.
 
-Please cite the original model repositories and papers if using outputs of this project in publications.
-
-## License
-
-This project inherits the license of included third-party models and libraries. Add or update a `LICENSE` file to declare your preferred project license.
 
 ---
 
